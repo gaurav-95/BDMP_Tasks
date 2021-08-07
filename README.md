@@ -9,4 +9,4 @@
 
 ## Propensity Score
 
-<img src=https://github.com/gaurav-95/BDMP_Tasks/blob/main/prop.png">
+<img src="https://github.com/gaurav-95/BDMP_Tasks/blob/main/prop.png">
