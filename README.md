@@ -2,6 +2,7 @@
 
 ## Feature Selection/ Reduction from 33 to 4 part of BDMP
 
+<img src="https://github.com/gaurav-95/BDMP_Tasks/blob/main/corr.png">
 
 ## Decision Tree
 
