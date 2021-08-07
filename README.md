@@ -6,3 +6,5 @@
 ## Decision Tree
 
 <img src="https://github.com/gaurav-95/BDMP_Tasks/blob/main/diabetes.png">
+
+<img src="https://github.com/gaurav-95/BDMP_Tasks/blob/main/tree.png">
