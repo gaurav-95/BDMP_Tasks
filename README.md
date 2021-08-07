@@ -6,3 +6,7 @@
 ## Decision Tree
 
 <img src="https://github.com/gaurav-95/BDMP_Tasks/blob/main/tree.png">
+
+## Propensity Score
+
+<img src=https://github.com/gaurav-95/BDMP_Tasks/blob/main/prop.png">
